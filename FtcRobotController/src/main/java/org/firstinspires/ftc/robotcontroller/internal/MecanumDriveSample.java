@@ -31,8 +31,8 @@ public class MecanumDriveSample extends LinearOpMode {
             double turn = gamepad1.right_stick_x;  // Turn clockwise/counter-clockwise
 
             // Calculate motor power for each wheel
-            double frontLeftPower = drive - strafe*1.5 - turn;
-            double frontRightPower = -drive - strafe*1.5 + turn;
+            double frontLeftPower = drive - strafe*1.4 - turn;
+            double frontRightPower = -drive - strafe*1.4 + turn;
             double backLeftPower = -drive + strafe - turn;
             double backRightPower = drive + strafe + turn;
 
