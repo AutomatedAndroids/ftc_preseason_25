@@ -1,5 +1,5 @@
 ## NOTICE
-Andrew was here sophiaa
+Andrew was here sophiaaa
 Hi,
 This repository contains the public FTC SDK for the INTO THE DEEP (2024-2025) competition season. This is the 23239 teams fork. We're in Greenwood Village, Colorado.
 avi and nooshie exist, breath and live on mother's earths crusty edges.
